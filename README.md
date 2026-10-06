@@ -33,4 +33,4 @@ R. H. Aungier, *Centrifugal Compressors: A Strategy for Aerodynamic Design and A
 
 ## License
 
-MIT, see `LICENSE`.
+Developed by ConQhan for the Wolfram Jet team. MIT license, see `LICENSE`.
