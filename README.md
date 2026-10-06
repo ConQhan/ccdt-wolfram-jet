@@ -30,3 +30,7 @@ Run `launch.m` in MATLAB (R2023a or newer, no toolboxes needed).
 ## Reference
 
 R. H. Aungier, *Centrifugal Compressors: A Strategy for Aerodynamic Design and Analysis*, ASME Press, 2000.
+
+## License
+
+MIT, see `LICENSE`.
